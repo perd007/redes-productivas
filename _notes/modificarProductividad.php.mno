@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_productividad" value="name:id;datatype:int,name:elaborada;datatype:int,name:disponible;datatype:int,name:procesada;datatype:int,name:fecha;datatype:date" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cooperativa" value="name:nombre;datatype:string,name:rif;datatype:string,name:red;datatype:int,name:muncipip;datatype:string,name:norte;datatype:string,name:sur;datatype:string" />
+	<infoitem key="UD_productos" value="name:distribucion;datatype:string,name:nombre;datatype:string,name:medida;datatype:string,name:tiempo;datatype:string,name:cantidad;datatype:int,name:id_productor;datatype:int,name:id;datatype:int,name:costo;datatype:int,name:area;datatype:string,name:instalada;datatype:string,name:procesamiento;datatype:string,name:produccion;datatype:string,name:rif;datatype:string" />
+	<infoitem key="UD_cooperativas2" value="name:nombre;datatype:string,name:rif;datatype:string,name:red;datatype:int,name:muncipip;datatype:string,name:norte;datatype:string,name:sur;datatype:string" />
+</info>

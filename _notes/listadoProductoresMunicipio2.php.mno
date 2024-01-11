@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_productores" value="name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:direccion;datatype:string,name:telefono;datatype:int,name:correo;datatype:string,name:id_red;datatype:int,name:empresa;datatype:string,name:estudio;datatype:string,name:etnia;datatype:string,name:ingreso;datatype:real,name:localidad;datatype:string,name:miembros;datatype:int,name:terreno;datatype:string,name:vivienda;datatype:string,name:esposa;datatype:string,name:edad;datatype:int,name:edadEsp;datatype:int,name:estuEsp;datatype:string,name:municipio;datatype:string,name:parroquia;datatype:string,name:norte;datatype:string,name:sur;datatype:string,name:has;datatype:string,name:sexo;datatype:string" />
+</info>

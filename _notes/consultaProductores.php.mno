@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_productores" value="name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:direccion;datatype:string,name:telefono;datatype:int,name:correo;datatype:string,name:id_red;datatype:int" />
+</info>

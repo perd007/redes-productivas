@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cooperativas" value="name:nombre;datatype:string,name:rif;datatype:string,name:red;datatype:int,name:muncipip;datatype:string,name:norte;datatype:string,name:sur;datatype:string" />
+	<infoitem key="UD_cooperativa" value="name:nombre;datatype:string,name:rif;datatype:string,name:red;datatype:int,name:muncipip;datatype:string,name:norte;datatype:string,name:sur;datatype:string" />
+	<infoitem key="UD_coop" value="name:nombre;datatype:string,name:rif;datatype:string,name:red;datatype:int,name:muncipip;datatype:string,name:norte;datatype:string,name:sur;datatype:string" />
+	<infoitem key="UD_coop2" value="name:nombre;datatype:string,name:rif;datatype:string,name:red;datatype:int,name:muncipip;datatype:string,name:norte;datatype:string,name:sur;datatype:string" />
+</info>

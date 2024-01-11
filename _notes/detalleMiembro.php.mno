@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_miembros" value="name:nombre;datatype:string,name:apellido;datatype:string,name:sexo;datatype:string,name:cedula;datatype:int,name:cargo;datatype:string,name:direccion;datatype:string,name:parroquia;datatype:string,name:telefono;datatype:int,name:correo;datatype:string,name:cooperativa;datatype:string" />
+	<infoitem key="UD_cooperativa" value="name:nombre;datatype:string,name:rif;datatype:string,name:red;datatype:int,name:muncipip;datatype:string,name:norte;datatype:string,name:sur;datatype:string" />
+</info>

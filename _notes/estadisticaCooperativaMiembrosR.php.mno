@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cooperativa" value="name:nombre;datatype:string,name:rif;datatype:string,name:red;datatype:int,name:muncipip;datatype:string,name:norte;datatype:string,name:sur;datatype:string" />
+	<infoitem key="UD_miembros" value="name:miembros;datatype:int,name:cooperativa;datatype:string" />
+	<infoitem key="UD_redes" value="name:id;datatype:int,name:ano;datatype:int,name:objetivo;datatype:string,name:monto;datatype:real,name:nombre_rep;datatype:string,name:apellido_rep;datatype:string,name:cedula_rep;datatype:int,name:telefono;datatype:int,name:direccion;datatype:string,name:correo;datatype:string,name:nombre;datatype:string,name:rif;datatype:string,name:actividad;datatype:string,name:rubro;datatype:string" />
+</info>

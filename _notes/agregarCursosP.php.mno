@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cursos" value="name:id_curso;datatype:int,name:tipo;datatype:string,name:estado;datatype:string,name:facilitador;datatype:string,name:fecha;datatype:date,name:nombre;datatype:string,name:horas;datatype:int" />
+	<infoitem key="UD_regicur" value="name:id;datatype:int,name:productor;datatype:int,name:curso;datatype:int,name:cooperativa;datatype:string,name:personal;datatype:int" />
+	<infoitem key="UD_regicur2" value="name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:sexo;datatype:string,name:provenencia;datatype:string,name:observacion;datatype:string" />
+</info>
